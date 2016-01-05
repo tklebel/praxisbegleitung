@@ -40,6 +40,16 @@ Reflexion des Forschungsprozesses
         * Grafiken optimieren
         * Korrektur lesen
     + Tagungsteilnahme: Wissenschaft.Macht.Nachwuchs
+- Ergebnisse der Studie mit der Verbindung zur Theorie
+    + quantitativ
+        * Vereinbarkeit Studium und Familie (15f.)
+        * Motivationen das Studium aufzunehmen? (19)
+            - Prestige (Männer)
+        * Abbruchsgedanken?
+        * Betreuer (Förderbeziehungen)
+            - (Frauen tun sich leicht)
+        * Bild von der Wissenschaft
+    + qualitativ
 - Reflexion
 
 
