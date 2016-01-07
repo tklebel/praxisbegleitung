@@ -1,5 +1,5 @@
 ---
-title: Praxisreflexion: Centrum für Sozialforschung
+title: "Praxisreflexion: Centrum für Sozialforschung"
 author: Thomas Klebel, BA
 date: 19 Januar 2015
 ---
@@ -8,16 +8,22 @@ date: 19 Januar 2015
 
 --- 
 
-![](karriere_gesamt.pdf)
+![*Quelle*: Universität Graz (Hg.) (2010): Zahlen, Fakten, Analysen. Chancengleichheit an der Uni Graz. Graz.](karriere_gesamt.png)
+
+----
+
+![*Quelle*: Universität Graz (Hg.) (2014): Zahlen, Fakten, Analysen. Chancengleichheit an der Uni Graz. Graz.](karriere_2014.png)
 
 ## Historische Erklärung
 
-![](altersverteilung.pdf)
-
+<div id="long_image">
+![*Quelle*: Universität Graz (Hg.) (2010): Zahlen, Fakten, Analysen. Chancengleichheit an der Uni Graz. Graz.](altersverteilung.png)
+</div>
 ------
 
-![](berufungen.pdf)
-
+<div id="wide_image">
+![*Quelle*: Universität Graz (Hg.) (2010): Zahlen, Fakten, Analysen. Chancengleichheit an der Uni Graz. Graz.](berufungen_2014.png)
+</div>
 
 ## Familienplanung
 

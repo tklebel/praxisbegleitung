@@ -64,6 +64,12 @@
 	font-size: .9em;
 }
 
+/* Image */
+
+.reveal img {
+	max-width: 80%;
+}
+
 
 /*********************
 * Title-Slide
@@ -84,5 +90,17 @@
 	font-size: 1em;
 	text-transform: capitalize;
 	font-variant: small-caps;
+}
+
+/* Long image */
+
+#long_image img {
+	max-width: 60%;
+}
+
+/* wide image */
+
+#wide_image img {
+	max-width: 95%;
 }
 
