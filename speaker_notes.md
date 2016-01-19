@@ -4,7 +4,7 @@ Praktikum hat im Wintersemester 2014/15 stattgefunden, also von Oktober 2014 bis
 
 Centrum für Sozialforschung gehört zum Institut für Soziologie. Was ich verstehe: übernimmt Aufträge, wenn Forschungsinteressen ans Institut herangetragen werden, Chef ist Prof. Prisching.
 
-Das Ziel des Praktikums war, eine Dissertatin bei der Erstellung einer Erhebung zu Unterstützen, der Titel: "SCHWIERIGKEITEN UND ERFOLGSFAKTOREN FÜR WISSENSCHAFTLICHE BERUFSLAUFBAHNEN VON FRAUEN AN DER SOWI-FAKULTÄT GRAZ". Auftraggeber das SOWI-Dekanat. Der Grund: Unterrepräsentation von Frauen in höheren Hierarchieebenen, und die Frage: Was kann das Dekanat hier tun. Neben mir war noch eine weitere Praktikantin mit dem Projekt beschäftigt.
+Das Ziel des Praktikums war, eine Dissertatin bei der Erstellung einer Erhebung zu Unterstützen, der Titel: *"Schwierigkeiten und Erfolgsfaktoren für wissenschaftliche Berufslaufbahnen von Frauen an der SOWI-Fakultät Graz"*. Auftraggeber das SOWI-Dekanat. Der Grund: Unterrepräsentation von Frauen in höheren Hierarchieebenen, und die Frage: Was kann das Dekanat hier tun. Neben mir war noch eine weitere Praktikantin mit dem Projekt beschäftigt.
 
 
 # Ablauf erklären
@@ -12,27 +12,31 @@ Das Ziel des Praktikums war, eine Dissertatin bei der Erstellung einer Erhebung 
 
 # Leaky Pipeline einführen
 
-Leaky Pipeline bezeichnet das Phänomen, dass auf dem Weg von der Studienanfängerin zur Professorin laufend Frauen aus dem System herausfallen, und zwar offenbar anteilsmäßig mehr als bei den Männern. Dazu muss man anmerken, dass die Grafik hier einen Querschnitt zeigt. Sinnvoller ist eine Kohortenanalyse, die aber bei Lind (2007) ein ähnliches Muster zeigt.
+Leaky Pipeline bezeichnet das Phänomen, dass auf dem Weg von der Studienanfängerin zur Professorin laufend Frauen aus dem System herausfallen, und zwar offenbar anteilsmäßig mehr als bei den Männern. Dazu muss man anmerken, dass die Grafik hier einen Querschnitt zeigt. Unten zeige ich noch eine Kohortenanalyse. 
 
 **Grafik 1 zeigen**
 
-Im nächsten Bericht, 2014, grafisch größerer Fokus auf Mitarbeiter
+----
+
+**Woran liegt das?**
+
+## Generationeneffekte
+Männer wären früher stärker präsent gewesen, das ändert sich aber nach und nach, da ja immer mehr Frauen studieren.
 
 **Grafik 2 zeigen**
 
-----
-**Woran liegt das?**
-
-# Generationeneffekte
-Männer wären früher stärker präsent gewesen, das ändert sich aber nach und nach, da ja immer mehr Frauen studieren.
+Es ist heute schon besser, aber auch nicht ausgeglichen. Das liegt daran, dass bei Habilitationen und Berufungen auch noch kein Gleichgewicht herrscht.
 
 **Grafik 3 zeigen**
 
-Es ist heute schon besser, aber auch nicht ausgeglichen. Das liegt daran, dass bei Habilitationen und Berufungen auch noch kein Gleichgewicht herrscht.
+## Karriereverläufe
 
 **Grafik 4 zeigen**
 
+
+
 --- 
+
 **Welche weiteren Erklärungen gibt es?**
 
 ## Illusio des wissenschaftlichen Feldes
@@ -49,7 +53,7 @@ Zentral ist für die illusio des wissenschaftlichen Feldes die Vorstellung von d
 Mit diesem Glauben an die Regeln des Feldes, dem Glauben an die Wissenschaft als Lebensform, steht aber das Bild der Familie im Widerspruch.
 
 
-## Familienplanung
+### Familienplanung
 Der Gedanke ist, dass Frauen daher aus der Wissenschaft aussteigen, weil sie eine Familie gründen wollen, und das mit der Illusio des wissenschaftlichen Feldes, dem totalen Commitment nicht gut vereinbar sei.
 
 Dies wird dadurch verstärkt, dass beim Abschluss der Promotion oft zwei Lebensentscheidungen zusammenfallen: Die Entscheidung für oder gegen Kinder, sowie die Entscheidung für oder gegen eine wissenschaftliche Karriere. "Angesichts der instabilen Beschäftigungssituation, der andaunernden Unselbstständigkeit im Beruf und der hohen Ungewissheit über die Realisierung des Berufsziels Professor ist es daher nicht verwunderlich, dass der Abschluss der Promotion der Zeitpunkt ist, an dem die sog. *leaky pipeline*, die durchlässige Karriere-Röhre, die meisten Löcher aufweist." (Krais 2008:204)
@@ -87,7 +91,29 @@ Zusätzlich habe ich das Thema des Praktikums als Aufhänger benutzt, um auf die
 
 # Ergebnisse in Verbindung mit Theorie
 
-## Vereinbarkeit
+## Studienmotivationen
+Grafik erklären: In der Mitte Boxplot plus Mittelwert, außenrum Violinplot, eine Art der Dichtefunktion die zeigt, wie sich die Daten gruppieren.
+
+Skalen:
+
+- Institutionelle Einbindung:
+    + Betreuungsangebot der Dissertation
+    + Motivation durch Lehrenden
+    + Arbeitsangebot von der Universitä
+- Verlegenheit
+    + Länger StudentIn sein können
+    + Keine adäquate Arbeit gefunden
+- Wissenschaftliches Interesse
+    + Spaß am wissenschaftlichen Arbeiten
+    + Interesse am Fach
+    + Affinität zum Dissertationsthema
+- Prestige
+    + Höheres Einkommen durch Doktortitel
+    + Bessere Chancen am Arbeitsmarkt
+    + Doktortitel für gesellschaftliches Prestige
+
+
+Vorwiegend aus methodischer Sicht interessant: Darstellung mit Violin-Plots erlaubt mehr Einblick in die Daten. So ist bei den Männern erkennbar, dass sich beim Mittelwert keinerlei Datenpunkte befinden, die Skala also bimodal ist.
 
 ## Gleichgeschlechtliche Mentorenbeziehungen
 Mentorinnenbeziehungen sind laut dem bisherigen Forschungsstand häufig gleichgeschlechtlich (Lind 2007). Auch in unseren Daten zeigt sich dieses Bild. Wenn man als "Förderbeziehung" den/die DissertationsbetreuerIn nimmt, zeigt sich, dass Frauen überdurchschnittlich oft bei Frauen dissertieren, Männer dagegen kaum. 
@@ -99,7 +125,7 @@ Role-Models können abschreckend wie bestärkend wirken. Einerseits gibt es Frau
 Andererseits kann es auch für Role-Models selbst positiv bestärkend wirken, wenn es Beispiele für andere erfolgreiche Frauen gibt, die auch Kinder und Familie haben.
 
 ## Entweder Wissenschaft oder Familie
-In den qualitativen Interviews hat sich gezeigt, dass die Wissenschaftlerinnen die Regeln des Spiels durchaus übernommen haben. So werden Familie und wissenschaftliche Karriere als einander ausschließende Sphären betrachtet: "Aber mir tut das eigentlich gut! Zu sehen dass eine junge Frau eine Chance hat und trotzdem zweifache Mutter ist."
+In den qualitativen Interviews hat sich gezeigt, dass die Wissenschaftlerinnen die Regeln des Spiels durchaus übernommen haben. So werden Familie und wissenschaftliche Karriere als einander ausschließende Sphären betrachtet: "Aber mir tut das eigentlich gut! Zu sehen dass eine junge Frau eine Chance hat und **trotzdem** zweifache Mutter ist."
 
 
 # Reflexion 
