@@ -85,7 +85,7 @@ date: 19 Januar 2015
 > „Es sollten halt keine extremen Vorbilder sein wo man sich denkt: Das will ich auf keinen Fall.“ (*Junge Nachwuchswissenschaftlerin*)
 
 
-> „Ich merke an unserer Fakultät, zu mindestens, es tut gut, dass wir jetzt mehr Frauen berufen haben. Und vor allem auch Frauen, die selber erfolgreich gezeigt haben, dass Familie und Wissenschaft vereinbar ist.“ (*Junge Nachwuchswissenschaftlerin*)
+> „Ich merke an unserer Fakultät, zu mindestens, es tut gut, dass wir jetzt mehr Frauen berufen haben. Und vor allem auch Frauen, die selber erfolgreich gezeigt haben, dass Familie und Wissenschaft vereinbar ist.“ (*Etablierte Akteurin*)
 
 ## Entweder - Oder
 
