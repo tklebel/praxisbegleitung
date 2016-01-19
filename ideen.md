@@ -48,10 +48,8 @@ Reflexion des Forschungsprozesses
         * Vereinbarkeit Studium und Familie (15f.)
         * Motivationen das Studium aufzunehmen? (19)
             - Prestige (Männer)
-        * Abbruchsgedanken?
         * Betreuer (Förderbeziehungen)
             - (Frauen tun sich leicht)
-        * Bild von der Wissenschaft
     + qualitativ
 - Reflexion
 

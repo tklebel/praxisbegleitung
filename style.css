@@ -104,3 +104,15 @@
 	max-width: 95%;
 }
 
+/* square image */
+
+#square_image img {
+	max-width: 70%;
+}
+
+/* Final slide */
+#bb8 {
+	width: 400px;
+	height: 200px;
+}
+
