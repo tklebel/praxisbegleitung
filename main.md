@@ -42,17 +42,26 @@ date: 19 Januar 2015
 
 ## Ablauf
 
-## Tätigkeiten I
+- Quantitative Erhebung
+    + Fragebogen
+    + Dateneingabe
+    + Auswertung
+- Qualitative Erhebung
+    + Leitfaden
+    + Transkription
+    + Auswertung
+- Bericht
 
-## Tätigkeiten II
+## Tätigkeiten
+
+- Fragebogenerstellung
+- Aufgabenteilung
+- Faktorenanalysen und Grafiken
+- Endbericht
 
 # Ergebnisse
 
 ---
-
-
-## Quanti Ergebnisse
-Ergebnisse mit der Theorie in Zusammenhang setzen.
 
 ## Studienmotivation
 
@@ -80,13 +89,9 @@ Ergebnisse mit der Theorie in Zusammenhang setzen.
 
 ## Entweder - Oder
 
-> "Aber mir tut das eigentlich gut! Zu sehen dass eine junge Frau eine Chance hat und **trotzdem** zweifache Mutter ist." 
+> "Aber mir tut das eigentlich gut! Zu sehen dass eine junge Frau eine Chance hat und **trotzdem** zweifache Mutter ist." (*Doktorandin*)
 
 > "Ich weiß, dass ich gewisse Preise nicht bereit bin zu zahlen, um in der Wissenschaft zu bleiben. [...] ich wäre auch nicht bereit **Familienplanung oder derartige Dinge aufzugeben um die große Karriere in der Wissenschaft zu starten** sozusagen." (*Doktorandin*)
-
-
-
-
 
 
 
