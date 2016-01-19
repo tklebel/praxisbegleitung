@@ -33,7 +33,7 @@ date: 19 Januar 2015
 - *Illusio*
 - Familienplanung
 - Netzwerke
-- Role-Modles
+- Role-Models
 
 
 # Ablauf der Studie
